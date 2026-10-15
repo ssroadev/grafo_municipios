@@ -1,0 +1,21 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Salidas generadas (se regeneran al ejecutar main.py)
+mapa_municipios.html
+grafo_municipios.png
+
+# Archivos del sistema
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+.kiro/
